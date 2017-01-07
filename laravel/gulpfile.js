@@ -1,5 +1,5 @@
 const elixir = require('laravel-elixir');
-
+//
 require('laravel-elixir-vue-2');
 
 /*
@@ -13,7 +13,10 @@ require('laravel-elixir-vue-2');
  |
  */
 
+//este mix que utilize el sass todo lo que esta en 
 elixir((mix) => {
     mix.sass('app.scss')
        .webpack('app.js');
 });
+//poner un gulp watch
+
