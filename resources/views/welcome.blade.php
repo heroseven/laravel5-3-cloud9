@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel with Vue.js
                 </div>
 
                 <div class="links">
